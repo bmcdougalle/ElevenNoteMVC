@@ -1,0 +1,16 @@
+C:\Users\billy\Desktop\ElevenFiftyProjects\RedBadge\MVCElevenNote\ElevenNote.WebMVC\ElevenNote.Contracts\bin\Debug\ElevenNote.Contracts.dll.config
+C:\Users\billy\Desktop\ElevenFiftyProjects\RedBadge\MVCElevenNote\ElevenNote.WebMVC\ElevenNote.Contracts\bin\Debug\ElevenNote.Contracts.dll
+C:\Users\billy\Desktop\ElevenFiftyProjects\RedBadge\MVCElevenNote\ElevenNote.WebMVC\ElevenNote.Contracts\bin\Debug\ElevenNote.Contracts.pdb
+C:\Users\billy\Desktop\ElevenFiftyProjects\RedBadge\MVCElevenNote\ElevenNote.WebMVC\ElevenNote.Contracts\bin\Debug\EntityFramework.dll
+C:\Users\billy\Desktop\ElevenFiftyProjects\RedBadge\MVCElevenNote\ElevenNote.WebMVC\ElevenNote.Contracts\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\billy\Desktop\ElevenFiftyProjects\RedBadge\MVCElevenNote\ElevenNote.WebMVC\ElevenNote.Contracts\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\billy\Desktop\ElevenFiftyProjects\RedBadge\MVCElevenNote\ElevenNote.WebMVC\ElevenNote.Contracts\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\billy\Desktop\ElevenFiftyProjects\RedBadge\MVCElevenNote\ElevenNote.WebMVC\ElevenNote.Contracts\bin\Debug\EntityFramework.xml
+C:\Users\billy\Desktop\ElevenFiftyProjects\RedBadge\MVCElevenNote\ElevenNote.WebMVC\ElevenNote.Contracts\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\billy\Desktop\ElevenFiftyProjects\RedBadge\MVCElevenNote\ElevenNote.WebMVC\ElevenNote.Contracts\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\billy\Desktop\ElevenFiftyProjects\RedBadge\MVCElevenNote\ElevenNote.WebMVC\ElevenNote.Contracts\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\billy\Desktop\ElevenFiftyProjects\RedBadge\MVCElevenNote\ElevenNote.WebMVC\ElevenNote.Contracts\obj\Debug\ElevenNote.Contracts.csprojAssemblyReference.cache
+C:\Users\billy\Desktop\ElevenFiftyProjects\RedBadge\MVCElevenNote\ElevenNote.WebMVC\ElevenNote.Contracts\obj\Debug\ElevenNote.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\billy\Desktop\ElevenFiftyProjects\RedBadge\MVCElevenNote\ElevenNote.WebMVC\ElevenNote.Contracts\obj\Debug\ElevenNote.Contracts.csproj.CopyComplete
+C:\Users\billy\Desktop\ElevenFiftyProjects\RedBadge\MVCElevenNote\ElevenNote.WebMVC\ElevenNote.Contracts\obj\Debug\ElevenNote.Contracts.dll
+C:\Users\billy\Desktop\ElevenFiftyProjects\RedBadge\MVCElevenNote\ElevenNote.WebMVC\ElevenNote.Contracts\obj\Debug\ElevenNote.Contracts.pdb

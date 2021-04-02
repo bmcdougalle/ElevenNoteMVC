@@ -14,3 +14,6 @@ C:\Users\billy\Desktop\ElevenFiftyProjects\RedBadge\MVCElevenNote\ElevenNote.Web
 C:\Users\billy\Desktop\ElevenFiftyProjects\RedBadge\MVCElevenNote\ElevenNote.WebMVC\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CopyComplete
 C:\Users\billy\Desktop\ElevenFiftyProjects\RedBadge\MVCElevenNote\ElevenNote.WebMVC\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
 C:\Users\billy\Desktop\ElevenFiftyProjects\RedBadge\MVCElevenNote\ElevenNote.WebMVC\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb
+C:\Users\billy\Desktop\ElevenFiftyProjects\RedBadge\MVCElevenNote\ElevenNote.WebMVC\ElevenNote.Models\bin\Debug\ElevenNote.Data.dll
+C:\Users\billy\Desktop\ElevenFiftyProjects\RedBadge\MVCElevenNote\ElevenNote.WebMVC\ElevenNote.Models\bin\Debug\ElevenNote.Data.pdb
+C:\Users\billy\Desktop\ElevenFiftyProjects\RedBadge\MVCElevenNote\ElevenNote.WebMVC\ElevenNote.Models\bin\Debug\ElevenNote.Data.dll.config
